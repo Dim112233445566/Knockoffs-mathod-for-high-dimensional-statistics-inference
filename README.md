@@ -1,7 +1,7 @@
 # Knockoffs-mathod-for-high-dimensional-statistics-inference
 This repository is build for my final report for the course high-dimensional statistics inference
 
-# Knockoffs变量选择方法 - 期末报告项目
+# Knockoffs变量选择方法 - 课程大报告
 
 ## 项目概览
 
