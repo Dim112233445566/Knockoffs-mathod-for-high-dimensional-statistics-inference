@@ -263,9 +263,9 @@ Knockoffs方法 (FDR目标=0.10):
 ### Knockoffs方法的核心原理
 
 1. **生成过程**
-   - 对每个变量X_j，生成其"假克隆"$\tilde{X}_j$
+   - 对每个变量$X_j$，生成其"假克隆"$\tilde{X}_j$
    - 满足：$\tilde{X}_j \perp y | X$ （与y条件独立）
-   - 同时保持：Corr($X_j$, $\tilde{X}_j$) > 0
+   - 同时保持：$Corr($X_j$, $\tilde{X}_j$) > 0$
 
 2. **特征构造**
    - 计算统计量W_j来衡量X_j的重要性
